@@ -1,3 +1,5 @@
 <?php
 
-echo 'hello world';
+echo 'Hello world';
+echo 'test new';
+?>
